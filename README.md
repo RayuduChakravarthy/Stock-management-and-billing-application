@@ -1,2 +1,6 @@
-# Stock-management-and-billing-application
-Stock management and customer billing application using Python
+
+# Stock management and customer billing application
+
+In this project, a simple stock management and billing application is 
+implemented. 
+
